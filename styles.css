@@ -1,9 +1,7 @@
 body {
   margin: auto;
   background-image: url('bitmaps/132.png');
-<!-- background-image: url('repeating/1608844491522.png'); -->
   background-repeat: repeat-y repeat-x;
-<!-- background-size 100px; -->
 }
 
 h1 {
